@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T19:39:14.688Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ggssdtumJeDygHzhWwdf" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-23T19:41:55.663Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="02xCe2oIk-a3bI41BT1W" version="13.7.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1222" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,6 +117,9 @@
           <mxGeometry x="0.5" y="49" relative="1" as="geometry">
             <mxPoint x="-38" y="40" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qGvnFFkdNz60ETLICAPc-2" value="&lt;span&gt;blackjack:&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;p class=&quot;p1&quot;&gt;1) How does a deck relate to a game?&lt;/p&gt;&lt;br&gt;&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;&lt;/span&gt;A deck is used in a game.&lt;/p&gt;&lt;br&gt;&lt;p class=&quot;p1&quot;&gt;2) How does a card relate to a deck?&lt;/p&gt;&lt;br&gt;&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;&lt;/span&gt;The game needs 1 deck, which has 52 cards.&lt;/p&gt;&lt;br&gt;&lt;p class=&quot;p1&quot;&gt;3) What properties would a game have?&lt;/p&gt;&lt;br&gt;&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;&lt;/span&gt;A game keeps track of score.&lt;/p&gt;&lt;br&gt;&lt;p class=&quot;p2&quot;&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot;&gt;4) What properties does a card have?&lt;/p&gt;&lt;br&gt;&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot;&gt;&lt;/span&gt;A card has a value associated with scoring.&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="540" width="460" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
